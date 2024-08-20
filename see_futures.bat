@@ -1,4 +1,3 @@
 @echo off
 
-cd src
-python main.py
+python src/data.py
