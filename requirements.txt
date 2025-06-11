@@ -1,6 +1,6 @@
-pandas
-matplotlib
-numpy
-tensorflow
-keras
-scikit-learn
+pandas==2.3.0
+matplotlib==3.10.3
+numpy==2.3.0
+tensorflow==2.19.0
+keras==3.10.0
+scikit-learn==1.7.0
